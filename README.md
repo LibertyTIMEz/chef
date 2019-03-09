@@ -1,2 +1,2 @@
 # chef
-■chef (knife solo) コマンドでoracle12c 環境を作成する
+■chef (knife solo) コマンドでOracle Database 12c Release 2 環境を作成する
